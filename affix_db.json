@@ -1,0 +1,4296 @@
+[
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 46,
+    "hi": 54,
+    "value": 50
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 28,
+    "hi": 36,
+    "value": 28
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 52,
+    "hi": 65,
+    "value": 56
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "lo": 21,
+    "hi": 24,
+    "value": 22
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 13,
+    "hi": 16,
+    "value": 16
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "lo": 5,
+    "hi": 5,
+    "value": 5
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "35",
+  "time": "20260927_manual"
+ },
+ {
+  "key": "移動速度%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "移動速度",
+    "pct": true,
+    "lo": 10,
+    "hi": 40,
+    "value": 16
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260927_manual",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "跳躍力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "跳躍力",
+    "pct": true,
+    "lo": 5,
+    "hi": 20,
+    "value": 10
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260927_manual",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "移動速度上限%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "移動速度上限",
+    "pct": true,
+    "lo": 10,
+    "hi": 20,
+    "value": 12
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260927_manual",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "跳躍力上限",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "跳躍力上限",
+    "pct": false,
+    "lo": 5,
+    "hi": 10,
+    "value": 5
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260927_manual",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 6.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 5.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "擊中恢復MP",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "擊中恢復MP",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "value": 14.0,
+    "lo": 13.0,
+    "hi": 15.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_001052"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 5.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "黑戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20260928_015148"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.7,
+    "lo": 1.6,
+    "hi": 1.8
+   }
+  ],
+  "item": "黑戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20260928_015148"
+ },
+ {
+  "key": "HP%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": true,
+    "value": 30.0,
+    "lo": 20.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_125523",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 46.0,
+    "lo": 40.0,
+    "hi": 60.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_125523",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "生命每秒回復%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": true,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_125523",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "value": 3.0,
+    "lo": 8.0,
+    "hi": 15.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_125523",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 21.0,
+    "lo": 20.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "天災．褐守護之褲",
+  "part": "褲子",
+  "category": "褲子",
+  "ilvl": "43",
+  "time": "20260928_132552",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "箭雨技能最大目標數加值",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "箭雨技能最大目標數加值",
+    "pct": false,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "天災．褐守護之褲",
+  "part": "褲子",
+  "category": "褲子",
+  "ilvl": "43",
+  "time": "20260928_132552",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 24.0,
+    "hi": 37.0,
+    "value": 25.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 21.0,
+    "hi": 24.0,
+    "value": 21.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "lo": 36.0,
+    "hi": 39.0,
+    "value": 39.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 21.0,
+    "hi": 24.0,
+    "value": 23.0
+   }
+  ],
+  "item": "藍寶石耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 46.0,
+    "hi": 54.0,
+    "value": 50.0
+   }
+  ],
+  "item": "溫和披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 80.0,
+    "hi": 80.0,
+    "value": 80.0
+   }
+  ],
+  "item": "洛尼的堅忍．褐色洛基外套",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 8.0,
+    "value": 8.0
+   }
+  ],
+  "item": "洛尼的堅忍．褐色洛基外套",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 8.0,
+    "value": 8.0
+   }
+  ],
+  "item": "洛尼的堅忍．褐色洛基外套",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "每顆鬥氣移動速度%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "每顆鬥氣移動速度",
+    "pct": true,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "血影．紅流星鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "每顆鬥氣攻速施法速度%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "每顆鬥氣攻速施法速度",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 4.0,
+    "value": 3.0
+   }
+  ],
+  "item": "血影．紅流星鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "鬥氣集中獲得鬥氣機率",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "鬥氣集中獲得鬥氣機率",
+    "pct": false,
+    "lo": 20.0,
+    "hi": 80.0,
+    "value": null
+   }
+  ],
+  "item": "血影．紅流星鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "力量",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "lo": 10.0,
+    "hi": 20.0,
+    "value": null
+   }
+  ],
+  "item": "血影．紅流星鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "生命每秒回復%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 15.0,
+    "value": 13.0
+   }
+  ],
+  "item": "求生欲．褐色短皮靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "HP%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 20.0,
+    "value": 16.0
+   }
+  ],
+  "item": "北方．鋰礦合金手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "lo": 80.0,
+    "hi": 100.0,
+    "value": 96.0
+   }
+  ],
+  "item": "北方．鋰礦合金手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 40.0,
+    "hi": 50.0,
+    "value": 45.0
+   }
+  ],
+  "item": "北方．鋰礦合金手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 10.0,
+    "value": 10.0
+   }
+  ],
+  "item": "轟天雷．青銅名譽手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "感電異常效果%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "感電異常效果",
+    "pct": true,
+    "lo": 100.0,
+    "hi": 100.0,
+    "value": null
+   }
+  ],
+  "item": "轟天雷．青銅名譽手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "法術暴擊率增幅%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "法術暴擊率增幅",
+    "pct": true,
+    "lo": 70.0,
+    "hi": 100.0,
+    "value": 98.0
+   }
+  ],
+  "item": "妖魔財寶．鑽石護盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "33",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "武器魔法攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器魔法攻擊力",
+    "pct": true,
+    "lo": 7.0,
+    "hi": 10.0,
+    "value": 9.0
+   }
+  ],
+  "item": "妖魔財寶．鑽石護盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "33",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "詛咒技能等級",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "詛咒技能等級",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 3.0,
+    "value": 1.0
+   }
+  ],
+  "item": "妖魔財寶．鑽石護盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "33",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "暴擊傷害減免%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "暴擊傷害減免",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 3.0,
+    "value": 2.0
+   }
+  ],
+  "item": "精仿．紫色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "25",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "移動速度%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "移動速度",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 40.0,
+    "value": 16.0
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "跳躍力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "跳躍力",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 20.0,
+    "value": 10.0
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "移動速度上限%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "移動速度上限",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 20.0,
+    "value": 12.0
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "跳躍力上限",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "跳躍力上限",
+    "pct": false,
+    "lo": 5.0,
+    "hi": 10.0,
+    "value": 5.0
+   }
+  ],
+  "item": "輕盈的玩具槌子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "0",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "lo": 40.0,
+    "hi": 50.0,
+    "value": 41.0
+   }
+  ],
+  "item": "掏心工具．鋼短刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "25",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "lo": 40.0,
+    "hi": 50.0,
+    "value": 50.0
+   }
+  ],
+  "item": "掏心工具．鋼短刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "25",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 25.0,
+    "value": 25.0
+   }
+  ],
+  "item": "掏心工具．鋼短刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "25",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "流血持續時間",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "流血持續時間",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": null
+   }
+  ],
+  "item": "掏心工具．鋼短刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "25",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 45.0,
+    "hi": 60.0,
+    "value": 50.0
+   }
+  ],
+  "item": "無窮化生．太極扇",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "36",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "詛咒技能等級",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "詛咒技能等級",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 2.0,
+    "value": 1.0
+   }
+  ],
+  "item": "無窮化生．太極扇",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "36",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 50.0,
+    "value": 47.0
+   }
+  ],
+  "item": "霜禍．白銀弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "42",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 50.0,
+    "value": 47.0
+   }
+  ],
+  "item": "霜禍．白銀弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "42",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "寒冰箭技能範圍%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "寒冰箭技能範圍",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 50.0,
+    "value": 26.0
+   }
+  ],
+  "item": "霜禍．白銀弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "42",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "寒冰箭額外朝身後發射",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "寒冰箭額外朝身後發射",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": null
+   }
+  ],
+  "item": "霜禍．白銀弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "42",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 60.0,
+    "hi": 100.0,
+    "value": 79.0
+   }
+  ],
+  "item": "後街吉姆的驕傲．黃金拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "投射物傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "投射物傷害",
+    "pct": true,
+    "lo": 30.0,
+    "hi": 50.0,
+    "value": 39.0
+   }
+  ],
+  "item": "後街吉姆的驕傲．黃金拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "幸運",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "lo": 10.0,
+    "hi": 20.0,
+    "value": 17.0
+   }
+  ],
+  "item": "後街吉姆的驕傲．黃金拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "15",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 77.0,
+    "hi": 99.0,
+    "value": 78.0
+   }
+  ],
+  "item": "死神盲點．銀守護拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "投射物傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "投射物傷害",
+    "pct": true,
+    "lo": 30.0,
+    "hi": 40.0,
+    "value": 37.0
+   }
+  ],
+  "item": "死神盲點．銀守護拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 7.0,
+    "value": 4.0
+   }
+  ],
+  "item": "死神盲點．銀守護拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "免除碰撞致死機率%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "免除碰撞致死機率",
+    "pct": true,
+    "lo": 50.0,
+    "hi": 50.0,
+    "value": null
+   }
+  ],
+  "item": "死神盲點．銀守護拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "lo": 46.0,
+    "hi": 54.0,
+    "value": 51.0
+   }
+  ],
+  "item": "藍色戰鬥頭盔",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 5.0,
+    "hi": 11.0,
+    "value": 6.0
+   }
+  ],
+  "item": "藍色戰鬥頭盔",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "增益技能保留效率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "增益技能保留效率",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍色戰鬥頭盔",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "lo": 10.0,
+    "hi": 12.0,
+    "value": 12.0
+   }
+  ],
+  "item": "藍色戰鬥頭盔",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 15.0,
+    "value": 11.0
+   }
+  ],
+  "item": "來電耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "來電耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "增益技能保留效率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "增益技能保留效率",
+    "pct": true,
+    "lo": 2.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "來電耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 15.0,
+    "value": 15.0
+   }
+  ],
+  "item": "來電耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "法術傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "法術傷害",
+    "pct": true,
+    "lo": 3.0,
+    "hi": 5.0,
+    "value": 3.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 6.0,
+    "hi": 10.0,
+    "value": 6.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": 16.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": 14.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "投射物傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "投射物傷害",
+    "pct": true,
+    "lo": 20.0,
+    "hi": 30.0,
+    "value": 26.0
+   }
+  ],
+  "item": "複眼．綠林弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "11",
+  "time": "20260928_144133",
+  "source": "背包掃描",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 3.0,
+    "hi": 3.0,
+    "value": 3.0
+   }
+  ],
+  "item": "貓眼耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 24.0,
+    "hi": 37.0,
+    "value": 32.0
+   }
+  ],
+  "item": "貓眼耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 28.0,
+    "hi": 36.0,
+    "value": 30.0
+   }
+  ],
+  "item": "貓眼耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "lo": 28.0,
+    "hi": 31.0,
+    "value": 29.0
+   }
+  ],
+  "item": "貓眼耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 5.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍戰士甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "藍戰士甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "藍戰士甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍戰士甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "藍戰士甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 10.0,
+    "value": 10.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 5.0,
+    "hi": 9.0,
+    "value": 6.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 7.0,
+    "hi": 8.0,
+    "value": 8.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "lo": 7.0,
+    "hi": 8.0,
+    "value": 7.0
+   }
+  ],
+  "item": "藍牛仔褲",
+  "part": "褲子",
+  "category": "褲裙",
+  "ilvl": "16",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "lo": 46.0,
+    "hi": 54.0,
+    "value": 49.0
+   }
+  ],
+  "item": "褐弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 21.0,
+    "hi": 24.0,
+    "value": 21.0
+   }
+  ],
+  "item": "褐弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "移動速度%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "移動速度",
+    "pct": true,
+    "lo": 14.0,
+    "hi": 16.0,
+    "value": 14.0
+   }
+  ],
+  "item": "藍弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 20.0,
+    "value": 14.0
+   }
+  ],
+  "item": "藍弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 28.0,
+    "value": 26.0
+   }
+  ],
+  "item": "藍弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 21.0,
+    "hi": 24.0,
+    "value": 23.0
+   }
+  ],
+  "item": "藍弓手鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "移動速度%",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "移動速度",
+    "pct": true,
+    "lo": 20.0,
+    "hi": 22.0,
+    "value": 21.0
+   }
+  ],
+  "item": "祖母綠將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 10.0,
+    "value": 6.0
+   }
+  ],
+  "item": "祖母綠將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "lo": 9.0,
+    "hi": 10.0,
+    "value": 10.0
+   }
+  ],
+  "item": "祖母綠將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 28.0,
+    "value": 25.0
+   }
+  ],
+  "item": "祖母綠將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 26.0,
+    "value": 25.0
+   }
+  ],
+  "item": "祖母綠將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 41.0,
+    "hi": 50.0,
+    "value": 43.0
+   }
+  ],
+  "item": "鋰礦藍將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "移動速度%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "移動速度",
+    "pct": true,
+    "lo": 14.0,
+    "hi": 16.0,
+    "value": 16.0
+   }
+  ],
+  "item": "鋰礦藍將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 17.0,
+    "hi": 20.0,
+    "value": 18.0
+   }
+  ],
+  "item": "鋰礦藍將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 2.0,
+    "value": 1.0
+   }
+  ],
+  "item": "鋰礦藍將軍靴",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 15.0,
+    "value": 13.0
+   }
+  ],
+  "item": "紅意志手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "法術傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "法術傷害",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 13.0,
+    "value": 12.0
+   }
+  ],
+  "item": "紅意志手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 10.0,
+    "value": 7.0
+   }
+  ],
+  "item": "紅意志手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "施法速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "施法速度",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 5.0,
+    "value": 5.0
+   }
+  ],
+  "item": "紅意志手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命藥水恢復量%",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "生命藥水恢復量",
+    "pct": true,
+    "lo": 28.0,
+    "hi": 31.0,
+    "value": 28.0
+   }
+  ],
+  "item": "綠色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "移動速度上限",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "移動速度上限",
+    "pct": false,
+    "lo": 16.0,
+    "hi": 18.0,
+    "value": 16.0
+   }
+  ],
+  "item": "綠色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 55.0,
+    "hi": 63.0,
+    "value": 62.0
+   }
+  ],
+  "item": "綠色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "lo": 7.0,
+    "hi": 9.0,
+    "value": 9.0
+   }
+  ],
+  "item": "綠色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "lo": 16.0,
+    "hi": 18.0,
+    "value": 16.0
+   }
+  ],
+  "item": "綠色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 19.0,
+    "hi": 27.0,
+    "value": 21.0
+   }
+  ],
+  "item": "藍色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 3.0,
+    "value": 2.0
+   }
+  ],
+  "item": "藍色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 55.0,
+    "hi": 63.0,
+    "value": 62.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 80.0,
+    "hi": 93.0,
+    "value": 89.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 21.0,
+    "hi": 24.0,
+    "value": 23.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "lo": 13.0,
+    "hi": 15.0,
+    "value": 14.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 8.0,
+    "value": 5.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 12.0,
+    "hi": 18.0,
+    "value": 16.0
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 8.0,
+    "value": null
+   }
+  ],
+  "item": "黑色冒險披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "lo": 12.0,
+    "hi": 18.0,
+    "value": 14.0
+   }
+  ],
+  "item": "黑色魔法披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "lo": 6.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "黑色魔法披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 8.0,
+    "value": 8.0
+   }
+  ],
+  "item": "黑色魔法披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "跳躍力上限",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "跳躍力上限",
+    "pct": false,
+    "lo": 3.0,
+    "hi": 3.0,
+    "value": 3.0
+   }
+  ],
+  "item": "氧氣筒",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "移動速度上限",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "移動速度上限",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 4.0
+   }
+  ],
+  "item": "氧氣筒",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 18.0,
+    "value": 11.0
+   }
+  ],
+  "item": "氧氣筒",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "氧氣筒",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": null
+   }
+  ],
+  "item": "氧氣筒",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "30",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 24.0,
+    "hi": 37.0,
+    "value": 24.0
+   }
+  ],
+  "item": "玩具匠人披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "40",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 80.0,
+    "hi": 93.0,
+    "value": 89.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 11.0,
+    "hi": 13.0,
+    "value": 11.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "lo": 19.0,
+    "hi": 21.0,
+    "value": 20.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 29.0,
+    "hi": 32.0,
+    "value": 31.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "全部屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "全部屬性抗性",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "紅寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "lo": 14.0,
+    "hi": 16.0,
+    "value": 15.0
+   }
+  ],
+  "item": "黃寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 10.0,
+    "value": 8.0
+   }
+  ],
+  "item": "黃寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 15.0,
+    "value": 15.0
+   }
+  ],
+  "item": "黃寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "lo": 5.0,
+    "hi": 6.0,
+    "value": 5.0
+   }
+  ],
+  "item": "黃寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 25.0,
+    "hi": 28.0,
+    "value": 25.0
+   }
+  ],
+  "item": "黃寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 24.0,
+    "hi": 37.0,
+    "value": 36.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 10.0,
+    "value": 8.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": 16.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": 16.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 16.0,
+    "value": 13.0
+   }
+  ],
+  "item": "鑽石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 13.0,
+    "value": 12.0
+   }
+  ],
+  "item": "樹藤鞭子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "43",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 5.0,
+    "value": 4.0
+   }
+  ],
+  "item": "樹藤鞭子",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "43",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 7.0,
+    "hi": 7.0,
+    "value": 7.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 9.0,
+    "hi": 10.0,
+    "value": 10.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "lo": 26.0,
+    "hi": 30.0,
+    "value": 29.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 9.0,
+    "value": 8.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 14.0,
+    "value": 14.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "詛咒技能等級",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "詛咒技能等級",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 12.0,
+    "value": 12.0
+   }
+  ],
+  "item": "閃電飛刀",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 5.0,
+    "hi": 5.0,
+    "value": 5.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 7.0,
+    "hi": 9.0,
+    "value": 8.0
+   }
+  ],
+  "item": "刺槍",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 20.0,
+    "hi": 27.0,
+    "value": 26.0
+   }
+  ],
+  "item": "刺槍",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 21.0,
+    "hi": 30.0,
+    "value": 22.0
+   }
+  ],
+  "item": "刺槍",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "詛咒技能等級",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "詛咒技能等級",
+    "pct": false,
+    "lo": 2.0,
+    "hi": 2.0,
+    "value": 2.0
+   }
+  ],
+  "item": "刺槍",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "lo": 16.0,
+    "hi": 17.0,
+    "value": null
+   }
+  ],
+  "item": "刺槍",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "35",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "lo": 30.0,
+    "hi": 35.0,
+    "value": 30.0
+   }
+  ],
+  "item": "炎弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 29.0,
+    "hi": 35.0,
+    "value": 33.0
+   }
+  ],
+  "item": "炎弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "lo": 7.0,
+    "hi": 8.0,
+    "value": null
+   }
+  ],
+  "item": "炎弩",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 6.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 3.0,
+    "hi": 5.0,
+    "value": 5.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 10.0,
+    "value": 9.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "lo": 13.0,
+    "hi": 15.0,
+    "value": 14.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "lo": 3.0,
+    "hi": 4.0,
+    "value": 4.0
+   }
+  ],
+  "item": "青銅弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 19.0,
+    "hi": 27.0,
+    "value": 23.0
+   }
+  ],
+  "item": "冰晶弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "lo": 14.0,
+    "hi": 16.0,
+    "value": 15.0
+   }
+  ],
+  "item": "冰晶弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "lo": 19.0,
+    "hi": 21.0,
+    "value": 20.0
+   }
+  ],
+  "item": "冰晶弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "lo": 28.0,
+    "hi": 30.0,
+    "value": 29.0
+   }
+  ],
+  "item": "冰晶弩箭",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 6.0,
+    "hi": 7.0,
+    "value": 7.0
+   }
+  ],
+  "item": "紙飛機",
+  "part": "副手",
+  "category": "飛鏢",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "lo": 6.0,
+    "hi": 7.0,
+    "value": 6.0
+   }
+  ],
+  "item": "紙飛機",
+  "part": "副手",
+  "category": "飛鏢",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 5.0
+   }
+  ],
+  "item": "紙飛機",
+  "part": "副手",
+  "category": "飛鏢",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "lo": 15.0,
+    "hi": 17.0,
+    "value": 16.0
+   }
+  ],
+  "item": "紙飛機",
+  "part": "副手",
+  "category": "飛鏢",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "lo": 1.0,
+    "hi": 1.0,
+    "value": 1.0
+   }
+  ],
+  "item": "青色運動T恤",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "11",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 20.0,
+    "value": 20.0
+   }
+  ],
+  "item": "褐十字軍甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 11.0,
+    "hi": 20.0,
+    "value": 19.0
+   }
+  ],
+  "item": "褐十字軍甲",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "20",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "lo": 31.0,
+    "hi": 40.0,
+    "value": 38.0
+   }
+  ],
+  "item": "藍意志手套",
+  "part": "手套",
+  "category": "手套",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "lo": 80.0,
+    "hi": 93.0,
+    "value": 92.0
+   }
+  ],
+  "item": "紅色守護披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "55",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 18.0,
+    "value": 14.0
+   }
+  ],
+  "item": "紅色守護披風",
+  "part": "披風",
+  "category": "披風",
+  "ilvl": "55",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 10.0,
+    "value": 8.0
+   }
+  ],
+  "item": "綠寶石戒指",
+  "part": "戒指",
+  "category": "戒指",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "lo": 8.0,
+    "hi": 9.0,
+    "value": 9.0
+   }
+  ],
+  "item": "紫游泳圈",
+  "part": "武器",
+  "category": "單手棍",
+  "ilvl": "40",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 18.0,
+    "hi": 21.0,
+    "value": 18.0
+   }
+  ],
+  "item": "龍炎短劍",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "40",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "施法速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "施法速度",
+    "pct": true,
+    "lo": 10.0,
+    "hi": 12.0,
+    "value": 11.0
+   }
+  ],
+  "item": "黃金杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "51",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "lo": 1.0,
+    "hi": 7.0,
+    "value": 3.0
+   }
+  ],
+  "item": "黃金錘",
+  "part": "武器",
+  "category": "雙手棍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 52.0,
+    "hi": 60.0,
+    "value": 60.0
+   }
+  ],
+  "item": "黃金錘",
+  "part": "武器",
+  "category": "雙手棍",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "lo": 36.0,
+    "hi": 43.0,
+    "value": 37.0
+   }
+  ],
+  "item": "丈八蛇矛",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "50",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "lo": 28.0,
+    "hi": 35.0,
+    "value": 32.0
+   }
+  ],
+  "item": "青龍偃月刀",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "48",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "lo": 6.0,
+    "hi": 10.0,
+    "value": 7.0
+   }
+  ],
+  "item": "青龍偃月刀",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "48",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "lo": 4.0,
+    "hi": 4.0,
+    "value": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "lo": 4.0,
+    "hi": 6.0,
+    "value": 5.0
+   }
+  ],
+  "item": "黑戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "lo": 1.6,
+    "hi": 1.8,
+    "value": 1.7
+   }
+  ],
+  "item": "黑戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20260928_144133",
+  "source": "背包掃描"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": null,
+    "lo": 91,
+    "hi": 105
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": null,
+    "lo": 37,
+    "hi": 45
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ },
+ {
+  "key": "魔力保留效率%",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "魔力保留效率",
+    "pct": true,
+    "value": null,
+    "lo": 7,
+    "hi": 7
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 21,
+    "hi": 24
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "value": null,
+    "lo": 1,
+    "hi": 1
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ },
+ {
+  "key": "增益技能等級",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "增益技能等級",
+    "pct": false,
+    "value": null,
+    "lo": 1,
+    "hi": 1
+   }
+  ],
+  "item": "鬼怪帽",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "65",
+  "time": "20260928_manual",
+  "source": "手動（聊天截圖）"
+ }
+]
