@@ -78,7 +78,7 @@
  {
   "key": "冰冷屬性抗性%",
   "kind": "後",
-  "tier": 6,
+  "tier": 8,
   "parts": [
    {
     "name": "冰冷屬性抗性",
@@ -10511,5 +10511,265 @@
   "category": "飛鏢",
   "ilvl": "60",
   "time": "20260929_214523"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 5.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_002544",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 2,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 37.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004119",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 2,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 37.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004121",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 2,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 37.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004123",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電屬性抗性%",
+  "kind": "後",
+  "tier": 2,
+  "parts": [
+   {
+    "name": "閃電屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 37.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004125",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 25.0,
+    "hi": 28.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004134",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "神聖屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004140",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 5.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004146",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004154",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 17.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004159",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "火焰屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 21.0,
+    "hi": 24.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004202",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 25.0,
+    "hi": 28.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004205",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷屬性抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 21.0,
+    "hi": 24.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "套服",
+  "ilvl": "",
+  "time": "20260930_004209",
+  "source": "表格手動輸入"
  }
 ]
