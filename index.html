@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lootania 詞綴表</title>
+<meta name="description" content="路塔尼亞 Lootania 秘藏能力（前綴／後綴）T10～T1 數值範圍">
+<style>
+:root {
+  --frame: #c8d6ea; --title: #4d71a8; --title2: #3b5b8c; --bar: #5a6f93; --paper: #fbfaf4; --panel: #ffffff;
+  --text: #2c3346; --sub: #5b6680; --border: #9fb5d6; --line: #d6deea; --nav: #eef3fa; --sel: #ffd98a; --seltext: #402000;
+  --btn: #f39c34; --btn-hi: #ffb452; --btn-bd: #b8661a; --entry: #ffffff; --empty: #a8b0bd; --legend: #a0520a;
+  --pre: #eef5ff; --pre-bar: #4a6fa5; --suf: #f0f9ec; --suf-bar: #4f8a5b; --tab: #fbeaee; --tab-bar: #a8324a;
+  --sp: #f5f5f5; --sp-bar: #6b6b6b; --leg: #fff3df; --leg-bar: #c26a1c; --hover: rgba(255, 210, 63, .25);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --frame: #161c28; --title: #2b3f63; --title2: #1a2a45; --bar: #34496e; --paper: #1f2533; --panel: #1f2533;
+    --text: #e3e8f2; --sub: #9aa8c2; --border: #3d5277; --line: #38445c; --nav: #1b2230; --sel: #7a5a14; --seltext: #fff;
+    --btn: #d9801d; --btn-hi: #f09a36; --btn-bd: #8a4a0c; --entry: #2a3242; --empty: #56607a; --legend: #ffb36b;
+    --pre: #1f2c44; --pre-bar: #3b5f99; --suf: #1e3326; --suf-bar: #3f7a4c; --tab: #3a1c24; --tab-bar: #9a2a40;
+    --sp: #262a33; --sp-bar: #555b66; --leg: #3a2a17; --leg-bar: #b35f15; --hover: rgba(255, 210, 63, .15);
+  }
+}
+:root[data-theme="dark"] {
+  --frame: #161c28; --title: #2b3f63; --title2: #1a2a45; --bar: #34496e; --paper: #1f2533; --panel: #1f2533;
+  --text: #e3e8f2; --sub: #9aa8c2; --border: #3d5277; --line: #38445c; --nav: #1b2230; --sel: #7a5a14; --seltext: #fff;
+  --btn: #d9801d; --btn-hi: #f09a36; --btn-bd: #8a4a0c; --entry: #2a3242; --empty: #56607a; --legend: #ffb36b;
+  --pre: #1f2c44; --pre-bar: #3b5f99; --suf: #1e3326; --suf-bar: #3f7a4c; --tab: #3a1c24; --tab-bar: #9a2a40;
+  --sp: #262a33; --sp-bar: #555b66; --leg: #3a2a17; --leg-bar: #b35f15; --hover: rgba(255, 210, 63, .15);
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--frame); color: var(--text); display: flex; flex-direction: column;
+  font: 14px/1.5 "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", sans-serif; }
+header { background: linear-gradient(var(--title), var(--title2)); color: #fff; padding: 8px 16px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; box-shadow: 0 2px 6px rgba(0,0,0,.25); }
+h1 { font-size: 18px; margin: 0; letter-spacing: 1px; }
+.sub { font-size: 12px; opacity: .8; }
+.spacer { flex: 1; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 8px 16px; }
+.tools label { font-size: 13px; color: var(--sub); }
+select, input[type=search] { font: inherit; font-size: 13px; color: var(--text); background: var(--entry);
+  border: 1px solid var(--border); border-radius: 6px; padding: 4px 8px; }
+input[type=search] { width: 200px; }
+.btn { font: inherit; font-size: 13px; cursor: pointer; background: linear-gradient(var(--btn-hi), var(--btn)); color: #fff;
+  border: 1px solid var(--btn-bd); border-radius: 6px; padding: 4px 12px; font-weight: bold; text-shadow: 0 1px 0 rgba(0,0,0,.25); }
+.btn.ghost { background: rgba(255,255,255,.12); border-color: rgba(255,255,255,.4); font-weight: normal; text-shadow: none; }
+.note { font-size: 12px; color: var(--sub); padding: 0 16px 6px; }
+main { flex: 1; min-height: 0; display: flex; gap: 8px; padding: 0 8px 8px; }
+nav { width: 190px; flex: none; background: var(--nav); border: 1px solid var(--border); border-radius: 8px; overflow: auto; }
+nav h2 { margin: 0; font-size: 13px; background: var(--bar); color: #fff; padding: 4px 10px; position: sticky; top: 0; }
+nav ul { list-style: none; margin: 0; padding: 0; }
+nav li > a { display: block; padding: 3px 10px; color: var(--text); text-decoration: none; cursor: pointer; font-size: 13px; }
+nav li > a:hover { background: var(--hover); }
+nav li > a.on { background: var(--sel); color: var(--seltext); font-weight: bold; }
+nav .big > a { font-weight: bold; }
+nav .mid > a { padding-left: 22px; color: var(--sub); }
+nav .leaf > a { padding-left: 34px; }
+nav .lv1 > a { padding-left: 22px; }
+nav a.empty { color: var(--empty); }
+.tablewrap { flex: 1; min-width: 0; overflow: auto; background: var(--panel); border: 1px solid var(--border); border-radius: 8px; }
+table { border-collapse: collapse; width: max-content; min-width: 100%; font-size: 13px; }
+thead th { position: sticky; top: 0; z-index: 2; background: var(--title2); color: #d6e4ff; font-weight: bold;
+  padding: 5px 8px; border-right: 1px solid var(--border); white-space: nowrap; }
+td { padding: 3px 8px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); white-space: nowrap; }
+td.c { text-align: center; }
+td.items { white-space: normal; min-width: 160px; max-width: 320px; color: var(--sub); font-size: 12px; }
+tr.sep td { color: #fff; font-weight: bold; font-size: 12px; padding: 3px 8px; }
+tr.row { cursor: pointer; }
+tr.row:hover td { background: var(--hover) !important; }
+tr.k-前 td { background: var(--pre); } tr.sep.k-前 td { background: var(--pre-bar); }
+tr.k-後 td { background: var(--suf); } tr.sep.k-後 td { background: var(--suf-bar); }
+tr.k-禁忌 td { background: var(--tab); } tr.sep.k-禁忌 td { background: var(--tab-bar); }
+tr.k-特 td { background: var(--sp); } tr.sep.k-特 td { background: var(--sp-bar); }
+tr.k-傳 td { background: var(--leg); } tr.sep.k-傳 td { background: var(--leg-bar); }
+tr.k-傳 .name { color: var(--legend); }
+.guess { opacity: .85; }
+.empty-msg { padding: 40px; text-align: center; color: var(--sub); }
+#dlg { position: fixed; inset: 0; background: rgba(0,0,0,.55); display: none; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
+#dlg .box { background: var(--paper); border: 1px solid var(--border); border-radius: 10px; max-width: 760px; width: 100%; max-height: 85vh; overflow: auto; }
+#dlg h3 { margin: 0; padding: 8px 14px; background: var(--bar); color: #fff; font-size: 15px; display: flex; align-items: center; position: sticky; top: 0; }
+#dlg h3 button { margin-left: auto; background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.4); border-radius: 6px; cursor: pointer; }
+#dlg table { width: 100%; }
+#dlg td, #dlg th { white-space: normal; }
+footer { font-size: 12px; color: var(--sub); padding: 0 16px 8px; }
+footer a { color: inherit; }
+#navSelect { display: none; }
+@media (max-width: 760px) {
+  nav { display: none; }
+  #navSelect { display: inline-block; }
+  input[type=search] { width: 100%; }
+  main { padding: 0 6px 6px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Lootania 詞綴表</h1>
+  <span class="sub" id="stat">讀取中…</span>
+  <span class="spacer"></span>
+  <button class="btn ghost" id="theme" title="切換日光／黑夜">☀ / ☾</button>
+  <button class="btn" id="csv">匯出 CSV</button>
+</header>
+<div class="tools">
+  <select id="navSelect" aria-label="裝備分類"></select>
+  <label>類型 <select id="kind">
+    <option>全部</option><option>前綴</option><option>後綴</option><option>禁忌</option><option>特殊</option><option>傳奇</option>
+  </select></label>
+  <input type="search" id="q" placeholder="搜尋詞綴名稱（例：暴擊）">
+</div>
+<div class="note">每格是該 T 級看過的數值範圍（T10 最差、T1 最好）。上下兩格都有紀錄、中間只空一格時會自動推算填上。同一格有不同範圍時用「/」分開並標出裝備等級。點一列看所有紀錄。</div>
+<main>
+  <nav><h2>裝備分類</h2><ul id="nav"></ul></nav>
+  <div class="tablewrap"><table id="tbl"></table></div>
+</main>
+<footer>資料：<a href="https://github.com/rest58740/-Lootania-affix-">rest58740/-Lootania-affix-</a> 的 affix_db.json（玩家擷取的裝備資料），非官方。</footer>
+<div id="dlg"><div class="box"><h3><span id="dlgTitle"></span><button id="dlgClose">關閉</button></h3><table id="dlgTbl"></table></div></div>
+<script>
+// ---------------------------------------------------------------- 和詞綴表程式（item_capture.py）一樣的規則
+const CATEGORY_TREE = [
+  ["武器類", [["主武器", ["單手劍","雙手劍","單手斧","雙手斧","單手棍","雙手棍","短劍","槍矛","長杖","短杖","弓弩","拳套","指虎","火槍"]],
+             ["副武器", ["盾牌","箭矢","飛鏢","羽毛筆","寶珠","魔法箭筒"]], ["能源（徽章）", null]]],
+  ["防具類", [["帽子",null],["上衣",null],["套服",null],["褲子（下褲）",null],["褲裙",null],["鞋子",null],["手套",null],["披風",null],["肩章",null]]],
+  ["飾品類與其他", [["眼飾",null],["臉飾",null],["耳環",null],["項鍊",null],["腰帶",null],["戒指",null],["口袋道具",null],["勳章",null],["稱號",null]]],
+];
+const CATEGORY_ALIAS = {"頭盔":"帽子","褲子":"褲子（下褲）","下褲":"褲子（下褲）","耳飾":"耳環","眼鏡":"眼飾","墜飾":"項鍊",
+  "徽章":"能源（徽章）","能源":"能源（徽章）","肩膀":"肩章","弓":"弓弩","弩":"弓弩"};
+const PART_CATEGORY = {"頭盔":"帽子","衣服":"上衣","褲子":"褲子（下褲）","耳環":"耳環","墜飾":"項鍊","眼鏡":"眼飾"};
+const LEAVES = [];
+for (const [big, subs] of CATEGORY_TREE) for (const [name, kinds] of subs) {
+  if (kinds) kinds.forEach(k => LEAVES.push([big, name, k])); else LEAVES.push([big, null, name]);
+}
+const LEAF_SET = new Set(LEAVES.map(l => l[2]));
+function canonCategory(r) {
+  let cat = (r.category || "").replace(/^[^一-鿿]+|[^一-鿿]+$/g, "");
+  cat = CATEGORY_ALIAS[cat] || cat;
+  if (LEAF_SET.has(cat)) return cat;
+  const part = r.part || "";
+  if (cat && (part === "武器" || part === "副手")) return cat;
+  return PART_CATEGORY[part] || (LEAF_SET.has(part) ? part : "未分類");
+}
+// v0.9.0 起「神聖屬性抗性」改叫「神聖抗性」：舊名稱併到新名稱
+const OLD_NAMES = Object.fromEntries(["火焰","冰冷","閃電","毒素","神聖"].map(e => [e + "屬性抗性", e + "抗性"]));
+const canonName = n => OLD_NAMES[n] || n;
+const fmt = x => String(Math.round(x * 1e4) / 1e4);
+const affixKey = parts => parts.map(p => p.name + (p.pct ? "%" : "")).join("＋");
+const affixLabel = parts => parts.map(p => p.name + (p.pct ? "（%）" : "")).join("＋");
+function rangeText(parts) {
+  if (parts.length && parts.every(p => p.lo == null)) return "有此效果";
+  return parts.filter(p => p.lo != null).map(p => `${fmt(p.lo)}~${fmt(p.hi)}${p.pct ? "%" : ""}`).join("，");
+}
+const TIERS = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0];
+const KIND_NAME = {"前": "前綴", "後": "後綴", "禁忌": "禁忌", "": "特殊", "傳": "傳奇"};
+const KIND_ORDER = {"前": 0, "後": 1, "禁忌": 2, "": 3, "傳": 4};
+const KIND_CLS = {"前": "前", "後": "後", "禁忌": "禁忌", "": "特", "傳": "傳"};
+const TEXT_NOTE = "遊戲沒有標註前綴或後綴";
+
+// 排序：同一類放在一起，同類裡照元素排
+const GROUPS = [
+  n => n.includes("攻擊力") && !n.includes("防禦"),
+  n => n.endsWith("傷害") || n.includes("傷害增幅"),
+  n => n.includes("暴擊"),
+  n => (n.includes("速度") && !n.includes("上限")) || n.startsWith("每顆鬥氣"),
+  n => n.includes("保留效率"),
+  n => n.includes("技能"),
+  n => ["力量","敏捷","智力","幸運","全能力","減少能力值需求"].includes(n),
+  n => n === "HP" || n === "MP",
+  n => n.includes("命中"),
+  n => n.includes("恢復") || n.includes("回復"),
+  n => n.includes("防禦") || n.includes("迴避") || n.includes("減免") || n.includes("減傷"),
+  n => n.includes("抗性"),
+  n => n.includes("異常"),
+  n => n.includes("移動") || n.includes("跳躍"),
+];
+const ELEMENTS = ["物理","火焰","冰冷","冰緩","閃電","感電","毒素","神聖","流血","暈眩","全部","全"];
+const STATS = ["力量","敏捷","智力","幸運","全能力","減少能力值需求"];
+function sortKey(parts) {
+  const n = parts.length ? parts[0].name : "";
+  let g = GROUPS.findIndex(f => f(n)); if (g < 0) g = GROUPS.length;
+  let sub = STATS.indexOf(n);
+  if (sub < 0) { sub = ELEMENTS.findIndex(e => n.startsWith(e)); if (sub < 0) sub = ELEMENTS.length; }
+  return [g, sub, n];
+}
+function cmp(a, b) {
+  for (let i = 0; i < Math.max(a.length, b.length); i++) {
+    if (a[i] === b[i]) continue;
+    if (typeof a[i] === "number" && typeof b[i] === "number") return a[i] - b[i];
+    return String(a[i]).localeCompare(String(b[i]), "zh-Hant");
+  }
+  return 0;
+}
+// 空格推算：上下兩格都有紀錄、中間只空一格（範圍首尾相接）
+function inferTiers(known) {
+  const out = {};
+  for (let t = 2; t <= 9; t++) {
+    const best = known[t - 1], worst = known[t + 1];
+    if (known[t] || !best || !worst || best.length !== worst.length) continue;
+    const guess = [];
+    let ok = true;
+    best.forEach(([bl, bh], i) => {
+      const [wl, wh] = worst[i];
+      if (bl >= bh || wl >= wh) { ok = false; return; }
+      const step = [bl, bh, wl, wh].some(x => Math.abs(x - Math.round(x)) > 1e-9) ? 0.1 : 1;
+      const lo = Math.round((wh + step) * 1e4) / 1e4, hi = Math.round((bl - step) * 1e4) / 1e4;
+      if (lo > hi) { ok = false; return; }
+      guess.push([lo, hi]);
+    });
+    if (ok && guess.length) out[t] = guess;
+  }
+  return out;
+}
+
+// ---------------------------------------------------------------- 畫面
+let DB = [], selCat = "all", rowsCache = [];
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+try { const t = localStorage.getItem("affix-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+$("#theme").onclick = () => {
+  const dark = document.documentElement.dataset.theme ? document.documentElement.dataset.theme === "dark"
+    : matchMedia("(prefers-color-scheme: dark)").matches;
+  document.documentElement.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("affix-theme", document.documentElement.dataset.theme); } catch (e) {}
+};
+
+function buildNav() {
+  const count = {};
+  DB.forEach(r => { const c = r._cat; count[c] = (count[c] || 0) + 1; });
+  const li = (cls, key, text, n) => `<li class="${cls}"><a data-k="${esc(key)}" class="${n ? "" : "empty"}">${esc(text)}（${n}）</a></li>`;
+  let h = li("big", "all", "全部", DB.length), opts = `<option value="all">全部（${DB.length}）</option>`;
+  const known = new Set();
+  for (const [big, subs] of CATEGORY_TREE) {
+    const bigLeaves = [];
+    let inner = "";
+    for (const [name, kinds] of subs) {
+      if (kinds) {
+        const n = kinds.reduce((s, k) => s + (count[k] || 0), 0);
+        inner += li("mid", "mid:" + name, name, n);
+        kinds.forEach(k => { inner += li("leaf", "c:" + k, k, count[k] || 0); bigLeaves.push(k); known.add(k);
+          opts += `<option value="c:${esc(k)}">　${esc(k)}（${count[k] || 0}）</option>`; });
+      } else {
+        inner += li("lv1", "c:" + name, name, count[name] || 0); bigLeaves.push(name); known.add(name);
+        opts += `<option value="c:${esc(name)}">　${esc(name)}（${count[name] || 0}）</option>`;
+      }
+    }
+    const n = bigLeaves.reduce((s, k) => s + (count[k] || 0), 0);
+    h += li("big", "big:" + big, big, n) + inner;
+  }
+  Object.keys(count).filter(c => !known.has(c)).forEach(c => {
+    h += li("big", "c:" + c, c, count[c]); opts += `<option value="c:${esc(c)}">${esc(c)}（${count[c]}）</option>`;
+  });
+  $("#nav").innerHTML = h;
+  $("#navSelect").innerHTML = opts;
+  markNav();
+}
+function allowed(key) {
+  if (key === "all") return null;
+  if (key.startsWith("c:")) return new Set([key.slice(2)]);
+  if (key.startsWith("mid:")) {
+    for (const [, subs] of CATEGORY_TREE) for (const [name, kinds] of subs) if (name === key.slice(4)) return new Set(kinds);
+  }
+  if (key.startsWith("big:")) {
+    const s = new Set();
+    for (const [big, subs] of CATEGORY_TREE) if (big === key.slice(4)) for (const [name, kinds] of subs) (kinds || [name]).forEach(k => s.add(k));
+    return s;
+  }
+  return null;
+}
+function markNav() {
+  document.querySelectorAll("#nav a").forEach(a => a.classList.toggle("on", a.dataset.k === selCat));
+  $("#navSelect").value = [...$("#navSelect").options].some(o => o.value === selCat) ? selCat : "all";
+}
+$("#nav").addEventListener("click", e => { const a = e.target.closest("a"); if (!a) return; selCat = a.dataset.k; markNav(); fill(); });
+$("#navSelect").onchange = e => { selCat = e.target.value; markNav(); fill(); };
+$("#kind").onchange = fill;
+$("#q").oninput = fill;
+
+function rows() {
+  const kindSel = $("#kind").value, q = $("#q").value.trim(), allow = allowed(selCat);
+  const groups = new Map();
+  for (const r of DB) {
+    const cat = r._cat;
+    if (allow && !allow.has(cat)) continue;
+    const leg = r.rarity === "傳奇";
+    const k = leg ? "傳" : r.kind;
+    if (kindSel !== "全部" && KIND_NAME[k] !== kindSel) continue;
+    const label = (leg ? `【${r.item}】` : "") + affixLabel(r._parts);
+    if (q && !label.includes(q)) continue;
+    const gk = [cat, k, (leg ? r.item : "") + affixKey(r._parts)].join("\u0001");
+    if (!groups.has(gk)) groups.set(gk, {cat, k, label, tiers: {}, lv: {}, num: {}, pcts: [], recs: [], items: new Set(), parts: r._parts});
+    const g = groups.get(gk);
+    const rt = rangeText(r.parts);
+    (g.tiers[r.tier] ||= new Set()).add(rt);
+    (g.lv[r.tier + "|" + rt] ||= new Set()).add(String(r.ilvl || "?"));
+    if (r.tier && r.parts.every(p => p.lo != null)) {
+      (g.num[r.tier] ||= new Set()).add(JSON.stringify(r.parts.map(p => [p.lo, p.hi])));
+      g.pcts = r.parts.map(p => p.pct);
+    }
+    g.recs.push(r);
+    if (r.item) g.items.add(r.item);
+  }
+  const catOrder = Object.fromEntries(LEAVES.map((l, i) => [l[2], i]));
+  return [...groups.values()].sort((a, b) => cmp(
+    [catOrder[a.cat] ?? 99, a.cat, KIND_ORDER[a.k] ?? 9, a.k === "傳" ? a.recs[0].item : "", ...sortKey(a.parts), a.label],
+    [catOrder[b.cat] ?? 99, b.cat, KIND_ORDER[b.k] ?? 9, b.k === "傳" ? b.recs[0].item : "", ...sortKey(b.parts), b.label]));
+}
+function cell(g, t) {
+  const rs = [...(g.tiers[t] || [])];
+  if (rs.length <= 1) return esc(rs[0] || "");
+  const lvs = x => [...g.lv[t + "|" + x]].sort((a, b) => (+a || 999) - (+b || 999));
+  return rs.sort((a, b) => (+lvs(a)[0] || 999) - (+lvs(b)[0] || 999))
+    .map(x => `${esc(x)}（Lv${esc(lvs(x).join("、"))}）`).join(" / ");
+}
+function fill() {
+  const list = rowsCache = rows();
+  const head = `<thead><tr><th>分類</th><th>類型</th><th>詞綴</th>${TIERS.map(t => `<th>${t ? "T" + t : "無T級"}</th>`).join("")}<th>筆數</th><th>參考的裝備</th></tr></thead>`;
+  if (!list.length) { $("#tbl").innerHTML = head + `<tbody><tr><td colspan="16" class="empty-msg">沒有符合的詞綴</td></tr></tbody>`; return; }
+  let body = "", last = "";
+  list.forEach((g, i) => {
+    const cls = "k-" + KIND_CLS[g.k];
+    if (g.cat + "|" + g.k !== last) {
+      last = g.cat + "|" + g.k;
+      const tip = g.k === "" ? `（${TEXT_NOTE}）` : "";
+      body += `<tr class="sep ${cls}"><td colspan="16">◆ ${esc(g.cat)}｜${KIND_NAME[g.k]}${tip}</td></tr>`;
+    }
+    const cells = TIERS.map(t => cell(g, t));
+    if (g.k !== "傳") {
+      const known = {};
+      for (const [t, s] of Object.entries(g.num)) if (s.size === 1) known[t] = JSON.parse([...s][0]);
+      for (const [t, rng] of Object.entries(inferTiers(known))) {
+        if (!g.tiers[t]) cells[TIERS.indexOf(+t)] = `<span class="guess" title="推算：上下兩格的範圍首尾相接">${
+          rng.map(([lo, hi], j) => `${fmt(lo)}~${fmt(hi)}${g.pcts[j] ? "%" : ""}`).join("，")}</span>`;
+      }
+    }
+    body += `<tr class="row ${cls}" data-i="${i}"><td>${esc(g.cat)}</td><td class="c">${KIND_NAME[g.k]}</td><td class="name">${esc(g.label)}</td>`
+      + cells.map(c => `<td class="c">${c}</td>`).join("") + `<td class="c">${g.recs.length}</td><td class="items">${esc([...g.items].sort().join("、"))}</td></tr>`;
+  });
+  $("#tbl").innerHTML = head + `<tbody>${body}</tbody>`;
+}
+$("#tbl").addEventListener("click", e => {
+  const tr = e.target.closest("tr.row"); if (!tr) return;
+  const g = rowsCache[+tr.dataset.i];
+  $("#dlgTitle").textContent = `${g.cat}｜${KIND_NAME[g.k]}｜${g.label}`;
+  const recs = [...g.recs].sort((a, b) => (b.tier || 0) - (a.tier || 0));
+  $("#dlgTbl").innerHTML = `<thead><tr><th>T 級</th><th>範圍</th><th>實際數值</th><th>裝備</th><th>裝備等級</th></tr></thead><tbody>` +
+    recs.map(r => `<tr><td class="c">${r.tier ? "T" + r.tier : "無T級"}</td><td class="c">${esc(rangeText(r.parts))}</td>
+      <td class="c">${esc(r.parts.filter(p => p.value != null).map(p => fmt(p.value) + (p.pct ? "%" : "")).join("，"))}</td>
+      <td>${esc(r.item)}</td><td class="c">${esc(r.ilvl || "")}</td></tr>`).join("") + "</tbody>";
+  $("#dlg").style.display = "flex";
+});
+$("#dlgClose").onclick = () => $("#dlg").style.display = "none";
+$("#dlg").onclick = e => { if (e.target.id === "dlg") $("#dlg").style.display = "none"; };
+document.addEventListener("keydown", e => { if (e.key === "Escape") $("#dlg").style.display = "none"; });
+
+$("#csv").onclick = () => {
+  const lines = [["分類", "類型", "詞綴", ...TIERS.map(t => t ? "T" + t : "無T級"), "筆數", "參考的裝備"]];
+  rowsCache.forEach(g => lines.push([g.cat, KIND_NAME[g.k], g.label, ...TIERS.map(t => cell(g, t).replace(/<[^>]+>/g, "")), g.recs.length, [...g.items].join("、")]));
+  const csv = "﻿" + lines.map(l => l.map(x => `"${String(x).replace(/"/g, '""')}"`).join(",")).join("\r\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([csv], {type: "text/csv"})); a.download = "詞綴表.csv"; a.click();
+};
+
+fetch("affix_db.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(data => {
+  DB = data.map(r => Object.assign(r, {_cat: canonCategory(r), _parts: r.parts.map(p => Object.assign({}, p, {name: canonName(p.name)}))}));
+  const items = new Set(DB.map(r => r.item)).size;
+  $("#stat").textContent = `${DB.length} 筆紀錄｜${items} 件裝備`;
+  buildNav(); fill();
+}).catch(e => {
+  $("#stat").textContent = "讀取失敗";
+  $("#tbl").innerHTML = `<tbody><tr><td class="empty-msg">讀不到 affix_db.json：${esc(e.message)}</td></tr></tbody>`;
+});
+</script>
+</body>
+</html>
