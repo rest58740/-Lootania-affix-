@@ -56,10 +56,16 @@ button, input, select { font: inherit; color: inherit; }
 .chip:hover { border-color: var(--accent); }
 .chip.on { background: var(--chip-on); border-color: var(--chip-on); color: #fff; }
 .chip .n { opacity: .6; font-size: 11px; margin-left: 3px; }
-.cats { display: flex; gap: 6px; overflow-x: auto; flex-wrap: nowrap; margin-top: 10px; padding-bottom: 4px; scrollbar-width: thin; }
-.cats .grp { display: flex; gap: 6px; align-items: center; padding-right: 8px; border-right: 1px dashed var(--line); }
-.cats .grp:last-child { border-right: 0; }
-.cats .gl { font-size: 11px; color: var(--faint); writing-mode: vertical-rl; letter-spacing: 1px; }
+.cathead { display: flex; align-items: center; gap: 8px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--line); }
+.cathead .lab { font-size: 13px; color: var(--sub); }
+.toggle { margin-left: auto; border: 1px solid var(--line); background: var(--bg); border-radius: 8px; padding: 3px 10px;
+  font-size: 12px; color: var(--sub); cursor: pointer; }
+.toggle:hover { border-color: var(--accent); color: var(--ink); }
+.cats { display: grid; grid-template-columns: 4.5em 1fr; gap: 8px 10px; margin-top: 8px; }
+.cats .gl { font-size: 12px; font-weight: bold; color: var(--sub); text-align: right; padding-top: 5px; white-space: nowrap; }
+.cats .row { display: grid; grid-template-columns: repeat(auto-fill, minmax(8.4em, 1fr)); gap: 6px; }   /* 每格一樣寬，上下對齊 */
+.cats .chip { width: 100%; text-align: center; padding: 4px 6px; }
+.bar.folded .cats { display: none; }
 .chip.empty { opacity: .35; }
 
 /* ---------- 內容 */
@@ -125,7 +131,6 @@ main { max-width: 1180px; margin: 0 auto; padding: 16px; }
 .empty-msg { text-align: center; color: var(--sub); padding: 50px 10px; }
 footer { max-width: 1180px; margin: 0 auto; padding: 10px 16px 30px; color: var(--sub); font-size: 12px; }
 footer a { color: inherit; }
-@media (min-width: 900px) { .cats { flex-wrap: wrap; overflow: visible; } .cats .grp { flex-wrap: wrap; } }
 @media (max-width: 640px) {
   .hero { padding-bottom: 50px; }
   .hero h1 { font-size: 22px; }
@@ -149,6 +154,8 @@ footer a { color: inherit; }
     <button class="chip" id="csv" title="把目前列出來的詞綴存成 CSV（Excel）">匯出</button>
   </div>
   <div class="kinds" id="kinds"></div>
+  <div class="cathead"><span class="lab">裝備分類</span><span id="curCat"></span>
+    <button class="toggle" id="fold" title="展開／摺疊裝備分類">摺疊 ▴</button></div>
   <div class="cats" id="cats"></div>
 </div></div>
 
@@ -166,8 +173,8 @@ footer a { color: inherit; }
 <script>
 // ---------------------------------------------------------------- 規則（和詞綴表程式 item_capture.py 一樣）
 const CATEGORY_TREE = [
-  ["武器", [["單手劍","雙手劍","單手斧","雙手斧","單手棍","雙手棍","短劍","槍矛","長杖","短杖","弓弩","拳套","指虎","火槍"],
-           ["盾牌","箭矢","飛鏢","羽毛筆","寶珠","魔法箭筒","能源（徽章）"]]],
+  ["主武器", [["單手劍","雙手劍","單手斧","雙手斧","單手棍","雙手棍","短劍","槍矛","長杖","短杖","弓弩","拳套","指虎","火槍"]]],
+  ["副武器", [["盾牌","箭矢","飛鏢","羽毛筆","寶珠","魔法箭筒","能源（徽章）"]]],
   ["防具", [["帽子","上衣","套服","褲子（下褲）","褲裙","鞋子","手套","披風","肩章"]]],
   ["飾品", [["眼飾","臉飾","耳環","項鍊","腰帶","戒指","口袋道具","勳章","稱號"]]],
 ];
@@ -282,20 +289,35 @@ function buildFilters() {
   }).join("");
   const cc = {}; GROUPS_ALL.forEach(g => cc[g.cat] = (cc[g.cat] || 0) + 1);
   const chip = (c, n) => `<button class="chip ${c === catSel ? "on" : ""} ${n ? "" : "empty"}" data-cat="${esc(c)}">${esc(c)}<span class="n">${n}</span></button>`;
-  let h = `<div class="grp">${chip("全部", GROUPS_ALL.length)}</div>`;
+  let h = `<span class="gl">全部</span><div class="row">${chip("全部", GROUPS_ALL.length)}</div>`;
   const known = new Set();
   for (const [big, groups] of CATEGORY_TREE) {
     const leaves = groups.flat();
     leaves.forEach(c => known.add(c));
     const items = leaves.filter(c => cc[c]).map(c => chip(c, cc[c])).join("");
-    if (items) h += `<div class="grp"><span class="gl">${big}</span>${items}</div>`;
+    if (items) h += `<span class="gl">${big}</span><div class="row">${items}</div>`;
   }
   const extra = Object.keys(cc).filter(c => !known.has(c));
-  if (extra.length) h += `<div class="grp"><span class="gl">其他</span>${extra.map(c => chip(c, cc[c])).join("")}</div>`;
+  if (extra.length) h += `<span class="gl">其他</span><div class="row">${extra.map(c => chip(c, cc[c])).join("")}</div>`;
   $("#cats").innerHTML = h;
+  // 摺疊時旁邊顯示目前選的分類，點它就展開
+  $("#curCat").innerHTML = `<button class="chip on" data-unfold="1">${esc(catSel)}<span class="n">${catSel === "全部" ? GROUPS_ALL.length : (cc[catSel] || 0)}</span></button>`;
 }
 $("#kinds").onclick = e => { const b = e.target.closest("[data-kind]"); if (b) { kindSel = b.dataset.kind; buildFilters(); render(); } };
-$("#cats").onclick = e => { const b = e.target.closest("[data-cat]"); if (b) { catSel = b.dataset.cat; buildFilters(); render(); } };
+// 裝備分類：展開／摺疊（記在這台電腦；手機第一次預設摺疊）
+let folded = false;
+try { const v = localStorage.getItem("codex-cats-folded"); folded = v === null ? innerWidth < 640 : v === "1"; } catch (e) {}
+function setFold(f) {
+  folded = f;
+  document.querySelector(".bar").classList.toggle("folded", f);
+  $("#fold").textContent = f ? "展開 ▾" : "摺疊 ▴";
+  $("#curCat").style.display = f ? "" : "none";
+  try { localStorage.setItem("codex-cats-folded", f ? "1" : "0"); } catch (e) {}
+}
+$("#fold").onclick = () => setFold(!folded);
+$("#curCat").onclick = () => setFold(false);
+setFold(folded);
+$("#cats").onclick = e => { const b = e.target.closest("[data-cat]"); if (b) { catSel = b.dataset.cat; buildFilters(); render(); if (innerWidth < 640) setFold(true); } };
 let qTimer; $("#q").oninput = () => { clearTimeout(qTimer); qTimer = setTimeout(render, 120); };
 
 function visibleGroups() {
