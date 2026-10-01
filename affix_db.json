@@ -17214,5 +17214,1835 @@
   "category": "短杖",
   "ilvl": "54",
   "time": "20260930_bag"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 16.0,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20261001_211741"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 14.0,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20261001_211741"
+ },
+ {
+  "key": "毒素抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "毒素抗性",
+    "pct": true,
+    "value": 17.0,
+    "lo": 17.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "祖母綠耳環",
+  "part": "耳環",
+  "category": "耳飾",
+  "ilvl": "30",
+  "time": "20261001_211741"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 35.0,
+    "lo": 31.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "聖十字耳環",
+  "part": "耳環",
+  "category": "耳環",
+  "ilvl": "55",
+  "time": "20261001_213259"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "聖十字耳環",
+  "part": "耳環",
+  "category": "耳環",
+  "ilvl": "55",
+  "time": "20261001_213259"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 19.0,
+    "lo": 19.0,
+    "hi": 21.0
+   }
+  ],
+  "item": "聖十字耳環",
+  "part": "耳環",
+  "category": "耳環",
+  "ilvl": "55",
+  "time": "20261001_213259"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "聖十字耳環",
+  "part": "耳環",
+  "category": "耳環",
+  "ilvl": "55",
+  "time": "20261001_213259"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 5.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "高級木製短杖",
+  "part": "武器",
+  "category": "短杖",
+  "ilvl": "13",
+  "time": "20261001_215648"
+ },
+ {
+  "key": "法術傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "法術傷害",
+    "pct": true,
+    "value": 17.0,
+    "lo": 14.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "高級木製短杖",
+  "part": "武器",
+  "category": "短杖",
+  "ilvl": "13",
+  "time": "20261001_215648"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 33.0,
+    "lo": 24.0,
+    "hi": 37.0
+   }
+  ],
+  "item": "高級木製短杖",
+  "part": "武器",
+  "category": "短杖",
+  "ilvl": "13",
+  "time": "20261001_215648"
+ },
+ {
+  "key": "魔力每秒回復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "魔力每秒回復",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "高級木製短杖",
+  "part": "武器",
+  "category": "短杖",
+  "ilvl": "13",
+  "time": "20261001_215648"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "狼牙",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "25",
+  "time": "20261001_220257"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 31.0,
+    "lo": 30.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "狼牙",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "25",
+  "time": "20261001_220257"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 20.0,
+    "lo": 16.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "狼牙",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "25",
+  "time": "20261001_220257"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 10.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "狼牙",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "25",
+  "time": "20261001_220257"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 8.0,
+    "lo": 6.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "藍寶戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20261001_220530"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 22.0,
+    "lo": 22.0,
+    "hi": 28.0
+   }
+  ],
+  "item": "藍寶戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20261001_220530"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 21.0,
+    "lo": 21.0,
+    "hi": 22.0
+   }
+  ],
+  "item": "藍寶戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20261001_220530"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 18.0,
+    "lo": 16.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "藍寶戰神拳套",
+  "part": "武器",
+  "category": "拳套",
+  "ilvl": "60",
+  "time": "20261001_220530"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 62.0,
+    "lo": 61.0,
+    "hi": 70.0
+   }
+  ],
+  "item": "綠色滑雪板",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "55",
+  "time": "20261001_220602"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 3.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "綠色滑雪板",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "55",
+  "time": "20261001_220602"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 28.0,
+    "lo": 26.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "綠色滑雪板",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "55",
+  "time": "20261001_220602"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 49.0,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "綠色滑雪板",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "55",
+  "time": "20261001_220602"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.9,
+    "lo": 1.9,
+    "hi": 2.1
+   }
+  ],
+  "item": "綠色滑雪板",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "55",
+  "time": "20261001_220602"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 31.0,
+    "lo": 26.0,
+    "hi": 32.0
+   }
+  ],
+  "item": "古老朱礦盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "60",
+  "time": "20261001_220702"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 9.0,
+    "hi": 12.0
+   }
+  ],
+  "item": "古老朱礦盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "60",
+  "time": "20261001_220702"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "古老朱礦盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "60",
+  "time": "20261001_220702"
+ },
+ {
+  "key": "减少承受暴擊傷害%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "减少承受暴擊傷害",
+    "pct": true,
+    "value": 29.0,
+    "lo": 26.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "古老朱礦盾",
+  "part": "副手",
+  "category": "盾牌",
+  "ilvl": "60",
+  "time": "20261001_220702"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 35.0,
+    "lo": 30.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "血腥屠夫．赤斧",
+  "part": "武器",
+  "category": "單手斧",
+  "ilvl": "43",
+  "time": "20261001_222236",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "猛攻觸發機率%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "猛攻觸發機率",
+    "pct": true,
+    "value": 36.0,
+    "lo": 25.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "血腥屠夫．赤斧",
+  "part": "武器",
+  "category": "單手斧",
+  "ilvl": "43",
+  "time": "20261001_222236",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "猛攻傷害%",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "猛攻傷害",
+    "pct": true,
+    "value": 100.0,
+    "lo": 100.0,
+    "hi": 100.0
+   }
+  ],
+  "item": "血腥屠夫．赤斧",
+  "part": "武器",
+  "category": "單手斧",
+  "ilvl": "43",
+  "time": "20261001_222236",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 50.0,
+    "lo": 50.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "血腥屠夫．赤斧",
+  "part": "武器",
+  "category": "單手斧",
+  "ilvl": "43",
+  "time": "20261001_222236",
+  "rarity": "傳奇"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 42.0,
+    "lo": 31.0,
+    "hi": 45.0
+   }
+  ],
+  "item": "橙色黃金法冠",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "50",
+  "time": "20261001_222537"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 40.0,
+    "lo": 37.0,
+    "hi": 45.0
+   }
+  ],
+  "item": "橙色黃金法冠",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "50",
+  "time": "20261001_222537"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 17.0,
+    "lo": 16.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "橙色黃金法冠",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "50",
+  "time": "20261001_222537"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "橙色黃金法冠",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "50",
+  "time": "20261001_222537"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 9.0,
+    "hi": 12.0
+   }
+  ],
+  "item": "橙色黃金法冠",
+  "part": "頭盔",
+  "category": "帽子",
+  "ilvl": "50",
+  "time": "20261001_222537"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.3,
+    "lo": 1.3,
+    "hi": 1.5
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222614"
+ },
+ {
+  "key": "攻擊技能等級",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊技能等級",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222614"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 26.0,
+    "lo": 24.0,
+    "hi": 28.0
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222707"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222707"
+ },
+ {
+  "key": "造成的物理傷害轉化為神聖傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為神聖傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222707",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "雙翼刃",
+  "part": "武器",
+  "category": "短劍",
+  "ilvl": "60",
+  "time": "20261001_222707"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 6.0,
+    "lo": 1.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "跳躍力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "跳躍力",
+    "pct": true,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "裝備防禦力%＋跳躍力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   },
+   {
+    "name": "跳躍力",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 14.0,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "感電避免異常機率%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "感電避免異常機率",
+    "pct": true,
+    "value": 11.0,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "黑追擊鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "25",
+  "time": "20261001_222901"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 9.0,
+    "lo": 5.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "裝備防禦力%＋MP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 13.0,
+    "lo": 13.0,
+    "hi": 15.0
+   },
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 14.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 14.0,
+    "lo": 10.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 14.0,
+    "lo": 13.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "暈眩避免異常機率%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暈眩避免異常機率",
+    "pct": true,
+    "value": 6.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "智力",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "智力",
+    "pct": false,
+    "value": 21.0,
+    "lo": 19.0,
+    "hi": 21.0
+   }
+  ],
+  "item": "藍天使鞋",
+  "part": "鞋子",
+  "category": "鞋子",
+  "ilvl": "60",
+  "time": "20261001_223329"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 44.0,
+    "lo": 44.0,
+    "hi": 51.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223722"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 21.0,
+    "lo": 20.0,
+    "hi": 21.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223722"
+ },
+ {
+  "key": "魔力每秒回復",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "魔力每秒回復",
+    "pct": false,
+    "value": 24.0,
+    "lo": 21.0,
+    "hi": 25.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223722"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223722"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 45.0,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223749"
+ },
+ {
+  "key": "魔力每秒回復",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "魔力每秒回復",
+    "pct": false,
+    "value": 22.0,
+    "lo": 21.0,
+    "hi": 25.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223749"
+ },
+ {
+  "key": "法術基礎暴擊率%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "法術基礎暴擊率%",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.9,
+    "hi": 2.1
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223749"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 36.0,
+    "lo": 31.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "孫家之杖",
+  "part": "武器",
+  "category": "長杖",
+  "ilvl": "52",
+  "time": "20261001_223749"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": null,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224155",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": null,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224159",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 14.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224202",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 14.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224207",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": null,
+    "lo": 14.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224211",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": null,
+    "lo": 14.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224214",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 22.0,
+    "hi": 25.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224220",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 26.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224225",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 26.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224236",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": null,
+    "lo": 26.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "單手劍",
+  "ilvl": "",
+  "time": "20261001_224240",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 28.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224303",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 28.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224306",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 36.0,
+    "hi": 43.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224316",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 36.0,
+    "hi": 43.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224319",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 1,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 93.0,
+    "hi": 100.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224334",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 1,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 93.0,
+    "hi": 100.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "雙手劍",
+  "ilvl": "",
+  "time": "20261001_224338",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": null,
+    "lo": 4.0,
+    "hi": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224504",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 20.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224510",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 28.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224516",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 28.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224519",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 36.0,
+    "hi": 43.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224523",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 36.0,
+    "hi": 43.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224527",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 36.0,
+    "hi": 43.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224533",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 52.0,
+    "hi": 60.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224538",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": null,
+    "lo": 52.0,
+    "hi": 60.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224542",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 52.0,
+    "hi": 60.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224546",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224600",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 71.0,
+    "hi": 80.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224613",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 2,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 81.0,
+    "hi": 90.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224624",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 1,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 91.0,
+    "hi": 100.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "槍矛",
+  "ilvl": "",
+  "time": "20261001_224632",
+  "source": "表格手動輸入"
  }
 ]
