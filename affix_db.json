@@ -27179,5 +27179,1959 @@
   "ilvl": "",
   "time": "20261003_014802",
   "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 11.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021125"
+ },
+ {
+  "key": "毒素避免異常機率%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "毒素避免異常機率",
+    "pct": true,
+    "value": 10.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021125"
+ },
+ {
+  "key": "裝備防禦力%＋召喚物移動速度%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 15.0,
+    "lo": 13.0,
+    "hi": 15.0
+   },
+   {
+    "name": "召喚物移動速度",
+    "pct": true,
+    "value": 11.0,
+    "lo": 11.0,
+    "hi": 12.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 27.0,
+    "lo": 21.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 43.0,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021148"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 30.0,
+    "lo": 21.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 10.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "流血避免異常機率%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "流血避免異常機率",
+    "pct": true,
+    "value": 10.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021201"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 52.0,
+    "lo": 46.0,
+    "hi": 54.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "裝備防禦力%＋裝備防禦力",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 11.0,
+    "lo": 9.0,
+    "hi": 12.0
+   },
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 13.0,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021213"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 22.0,
+    "lo": 19.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021231"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021231"
+ },
+ {
+  "key": "裝備防禦力%＋裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   },
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 8.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 51.0,
+    "lo": 46.0,
+    "hi": 54.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "毒素抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "毒素抗性",
+    "pct": true,
+    "value": 13.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021250"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 37.0,
+    "lo": 37.0,
+    "hi": 45.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021322"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 11.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021322"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 15.0,
+    "lo": 11.0,
+    "hi": 15.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021344"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 10.0,
+    "lo": 1.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021344"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021344"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021344"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 38.0,
+    "lo": 37.0,
+    "hi": 45.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 48.0,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 34.0,
+    "lo": 31.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "流血避免異常機率%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "流血避免異常機率",
+    "pct": true,
+    "value": 14.0,
+    "lo": 13.0,
+    "hi": 14.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021434"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021514"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 4.0,
+    "lo": 1.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021514"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021514"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021514"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 19.0,
+    "lo": 19.0,
+    "hi": 22.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021542"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021542"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 10.0,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021615"
+ },
+ {
+  "key": "裝備防禦力%＋召喚物移動速度%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   },
+   {
+    "name": "召喚物移動速度",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021615"
+ },
+ {
+  "key": "裝備防禦力%＋裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 8.0,
+    "lo": 6.0,
+    "hi": 8.0
+   },
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021615"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021615"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 11.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021615"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 14.0,
+    "lo": 11.0,
+    "hi": 15.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021633"
+ },
+ {
+  "key": "裝備防禦力%＋裝備防禦力",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 12.0,
+    "lo": 9.0,
+    "hi": 12.0
+   },
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021633"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021700"
+ },
+ {
+  "key": "裝備防禦力%＋召喚物移動速度%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 5.0,
+    "lo": 3.0,
+    "hi": 5.0
+   },
+   {
+    "name": "召喚物移動速度",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021700"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021700"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021700"
+ },
+ {
+  "key": "毒素抗性%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "毒素抗性",
+    "pct": true,
+    "value": 12.0,
+    "lo": 11.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021700"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 38.0,
+    "lo": 31.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021716"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 3.0,
+    "lo": 2.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021716"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 27.0,
+    "lo": 23.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 31.0,
+    "lo": 31.0,
+    "hi": 40.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 19.0,
+    "lo": 19.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 9.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "白女貴族服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "40",
+  "time": "20261003_021734"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": null,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023300",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "value": null,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023301",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": null,
+    "lo": 2.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023303",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "value": null,
+    "lo": 2.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023306",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "幸運",
+  "kind": "後",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "幸運",
+    "pct": false,
+    "value": null,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023309",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": null,
+    "lo": 8.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023312",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "生命每秒回復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命每秒回復",
+    "pct": false,
+    "value": null,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023325",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": null,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023332",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素屬性抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素屬性抗性",
+    "pct": true,
+    "value": null,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023333",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素避免異常機率%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素避免異常機率",
+    "pct": true,
+    "value": null,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023337",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素避免異常機率%",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "毒素避免異常機率",
+    "pct": true,
+    "value": null,
+    "lo": 13.0,
+    "hi": 14.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023341",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": null,
+    "lo": 16.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_023348",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "迴避率%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "迴避率",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023513"
+ },
+ {
+  "key": "物理傷害減免%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害減免",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023513"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023548"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023733"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023733"
+ },
+ {
+  "key": "荊棘傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "荊棘傷害",
+    "pct": true,
+    "value": 9.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023738"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "綠色旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_023828"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 16.0,
+    "lo": 11.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024031"
+ },
+ {
+  "key": "全能力",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "全能力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024031"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 18.0,
+    "lo": 11.0,
+    "hi": 20.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024058"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 12.0,
+    "lo": 10.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024058"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": 6.0,
+    "lo": 1.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024219"
+ },
+ {
+  "key": "裝備防禦力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": false,
+    "value": 10.0,
+    "lo": 10.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024219"
+ },
+ {
+  "key": "裝備防禦力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": 11.0,
+    "lo": 10.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024219"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024219"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 18.0,
+    "lo": 17.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "褐旅行服",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "10",
+  "time": "20261003_024219"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": null,
+    "lo": 21.0,
+    "hi": 30.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_024427",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": null,
+    "lo": 41.0,
+    "hi": 50.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_024431",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "MP",
+  "kind": "前",
+  "tier": 4,
+  "parts": [
+   {
+    "name": "MP",
+    "pct": false,
+    "value": null,
+    "lo": 61.0,
+    "hi": 70.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_024434",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "裝備防禦力%＋召喚物移動速度%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "裝備防禦力",
+    "pct": true,
+    "value": null,
+    "lo": 6.0,
+    "hi": 8.0
+   },
+   {
+    "name": "召喚物移動速度",
+    "pct": true,
+    "value": null,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_024512",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 6,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": null,
+    "lo": 7.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "衣服",
+  "category": "上衣",
+  "ilvl": "",
+  "time": "20261003_024529",
+  "source": "表格手動輸入"
  }
 ]
