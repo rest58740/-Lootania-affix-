@@ -23800,5 +23800,3384 @@
   "ilvl": "25",
   "time": "20261003_012245",
   "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 5.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 20.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 17.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 5.0,
+    "lo": 4.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 15.0,
+    "lo": 15.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013119"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 15.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013132"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 10.0,
+    "lo": 8.0,
+    "hi": 14.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013132"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.2
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013132"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013132"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013132"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 20.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 6.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "攻擊技能等級",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊技能等級",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 18.0,
+    "lo": 17.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 11.0,
+    "lo": 9.0,
+    "hi": 11.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013143"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 9.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013155"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 18.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013155"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 22.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013155"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 3.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013155"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.3,
+    "lo": 1.3,
+    "hi": 1.5
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013155"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 12.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013215"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 17.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013215"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013215"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013215"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 14.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013222"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 10.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013222"
+ },
+ {
+  "key": "攻擊技能等級",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊技能等級",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013222"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 6.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013222"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 19.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 14.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 7.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013231"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 15.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 13.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 13.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "法術基礎暴擊率%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "法術基礎暴擊率%",
+    "pct": false,
+    "value": 1.3,
+    "lo": 1.3,
+    "hi": 1.5
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 16.0,
+    "lo": 15.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013237"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 15.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013247"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 6.0,
+    "lo": 1.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013247"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 12.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013247"
+ },
+ {
+  "key": "造成的物理傷害轉化為神聖傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為神聖傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013247",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 13.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013253"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 23.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013253"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013253"
+ },
+ {
+  "key": "造成的物理傷害轉化為毒素傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為毒素傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "長弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "10",
+  "time": "20261003_013253",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 16.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 22.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302"
+ },
+ {
+  "key": "攻擊技能等級",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊技能等級",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 17.0,
+    "lo": 17.0,
+    "hi": 18.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302"
+ },
+ {
+  "key": "造成的物理傷害轉化為閃電傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為閃電傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013302",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 18.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 16.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 12.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 3.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013312"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 17.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013323"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 20.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013323"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013323"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 11.0,
+    "lo": 9.0,
+    "hi": 11.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013323"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013323"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 14.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013330"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 21.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013330"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 3.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 3.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013330"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013330"
+ },
+ {
+  "key": "造成的物理傷害轉化為神聖傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為神聖傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013330",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013339"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013339"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 14.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013339"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 8.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013339"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 4.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013350"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 17.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013350"
+ },
+ {
+  "key": "武器攻擊力%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013350"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013350"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 15.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013403"
+ },
+ {
+  "key": "武器攻擊力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": false,
+    "value": 5.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013403"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 19.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013403"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 10.0,
+    "lo": 6.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013403"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 7.0,
+    "lo": 7.0,
+    "hi": 8.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013403"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 16.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013409"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 23.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013409"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013409"
+ },
+ {
+  "key": "攻擊基礎暴擊率%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊基礎暴擊率%",
+    "pct": false,
+    "value": 1.1,
+    "lo": 1.0,
+    "hi": 1.2
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013419"
+ },
+ {
+  "key": "減少能力值需求%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "減少能力值需求",
+    "pct": true,
+    "value": 15.0,
+    "lo": 15.0,
+    "hi": 16.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013419"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013419"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 18.0,
+    "lo": 18.0,
+    "hi": 23.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 16.0,
+    "lo": 12.0,
+    "hi": 17.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 9.0,
+    "lo": 9.0,
+    "hi": 11.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 4.0,
+    "lo": 4.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425"
+ },
+ {
+  "key": "造成的物理傷害轉化為冰冷傷害",
+  "kind": "",
+  "tier": 0,
+  "parts": [
+   {
+    "name": "造成的物理傷害轉化為冰冷傷害",
+    "pct": false,
+    "value": null,
+    "lo": null,
+    "hi": null
+   }
+  ],
+  "item": "弩弓",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "12",
+  "time": "20261003_013425",
+  "note": "遊戲沒有標註前綴或後綴"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "投射物射程%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "投射物射程",
+    "pct": true,
+    "value": 12.0,
+    "lo": 12.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 2.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 5.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013437"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "投射物射程%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "投射物射程",
+    "pct": true,
+    "value": 10.0,
+    "lo": 10.0,
+    "hi": 11.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 5.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 4.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013447"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 6.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013453"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013453"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013453"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013453"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013453"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013514"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013514"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013514"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 5.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013514"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013514"
+ },
+ {
+  "key": "攻擊力",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "攻擊力",
+    "pct": false,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013533"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013533"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013533"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013533"
+ },
+ {
+  "key": "敏捷",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "敏捷",
+    "pct": false,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 4.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013533"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013543"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 5.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013543"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 6.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013543"
+ },
+ {
+  "key": "力量",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "力量",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013543"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013550"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 22.0,
+    "lo": 19.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013550"
+ },
+ {
+  "key": "生命擊中恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013550"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 6.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013550"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 23.0,
+    "lo": 19.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013557"
+ },
+ {
+  "key": "魔力擊中恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "魔力擊中恢復",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013557"
+ },
+ {
+  "key": "毒素抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013557"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 6.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013615"
+ },
+ {
+  "key": "投射物射程%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "投射物射程",
+    "pct": true,
+    "value": 13.0,
+    "lo": 12.0,
+    "hi": 13.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013615"
+ },
+ {
+  "key": "神聖抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖抗性",
+    "pct": true,
+    "value": 7.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013615"
+ },
+ {
+  "key": "生命擊殺恢復",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "生命擊殺恢復",
+    "pct": false,
+    "value": 3.0,
+    "lo": 1.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013626"
+ },
+ {
+  "key": "毒素抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013626"
+ },
+ {
+  "key": "命中值",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": 5.0,
+    "lo": 4.0,
+    "hi": 6.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 7.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "魔力擊殺恢復",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "魔力擊殺恢復",
+    "pct": false,
+    "value": 5.0,
+    "lo": 4.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 2.0,
+    "lo": 2.0,
+    "hi": 2.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 9.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "",
+  "time": "20261003_013636"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": 4.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "HP",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "HP",
+    "pct": false,
+    "value": 23.0,
+    "lo": 19.0,
+    "hi": 27.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": 6.0,
+    "lo": 6.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 7.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "冰冷抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "冰冷抗性",
+    "pct": true,
+    "value": 7.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013643"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": 5.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013650"
+ },
+ {
+  "key": "投射物射程%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "投射物射程",
+    "pct": true,
+    "value": 10.0,
+    "lo": 10.0,
+    "hi": 11.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013650"
+ },
+ {
+  "key": "火焰抗性%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "火焰抗性",
+    "pct": true,
+    "value": 7.0,
+    "lo": 5.0,
+    "hi": 7.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013650"
+ },
+ {
+  "key": "閃電抗性%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "閃電抗性",
+    "pct": true,
+    "value": 8.0,
+    "lo": 8.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013650"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013650"
+ },
+ {
+  "key": "攻擊力",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊力",
+    "pct": false,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013658"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": 3.0,
+    "lo": 3.0,
+    "hi": 5.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013658"
+ },
+ {
+  "key": "攻擊速度%",
+  "kind": "後",
+  "tier": 10,
+  "parts": [
+   {
+    "name": "攻擊速度",
+    "pct": true,
+    "value": 1.0,
+    "lo": 1.0,
+    "hi": 1.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013658"
+ },
+ {
+  "key": "暴擊率增幅%",
+  "kind": "後",
+  "tier": 9,
+  "parts": [
+   {
+    "name": "暴擊率增幅",
+    "pct": true,
+    "value": 13.0,
+    "lo": 13.0,
+    "hi": 15.0
+   }
+  ],
+  "item": "弩箭矢",
+  "part": "副手",
+  "category": "箭矢",
+  "ilvl": "0",
+  "time": "20261003_013707"
+ },
+ {
+  "key": "暴擊傷害%",
+  "kind": "後",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "暴擊傷害",
+    "pct": true,
+    "value": null,
+    "lo": 10.0,
+    "hi": 10.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014649",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "武器攻擊力%＋命中值",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "武器攻擊力",
+    "pct": true,
+    "value": null,
+    "lo": 5.0,
+    "hi": 5.0
+   },
+   {
+    "name": "命中值",
+    "pct": false,
+    "value": null,
+    "lo": 7.0,
+    "hi": 9.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014732",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 8,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 24.0,
+    "hi": 29.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014738",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 30.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014741",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": null,
+    "lo": 30.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014743",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": null,
+    "lo": 30.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014744",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 42.0,
+    "hi": 46.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014748",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "物理傷害%",
+  "kind": "前",
+  "tier": 5,
+  "parts": [
+   {
+    "name": "物理傷害",
+    "pct": true,
+    "value": null,
+    "lo": 42.0,
+    "hi": 46.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014749",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "火焰傷害%",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "火焰傷害",
+    "pct": true,
+    "value": null,
+    "lo": 53.0,
+    "hi": 58.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014752",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "冰冷傷害%",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "冰冷傷害",
+    "pct": true,
+    "value": null,
+    "lo": 53.0,
+    "hi": 58.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014755",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "閃電傷害%",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "閃電傷害",
+    "pct": true,
+    "value": null,
+    "lo": 53.0,
+    "hi": 58.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014756",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "毒素傷害%",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "毒素傷害",
+    "pct": true,
+    "value": null,
+    "lo": 53.0,
+    "hi": 58.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014757",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 3,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": null,
+    "lo": 53.0,
+    "hi": 58.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014758",
+  "source": "表格手動輸入"
+ },
+ {
+  "key": "神聖傷害%",
+  "kind": "前",
+  "tier": 7,
+  "parts": [
+   {
+    "name": "神聖傷害",
+    "pct": true,
+    "value": null,
+    "lo": 30.0,
+    "hi": 35.0
+   }
+  ],
+  "item": "（表格手動輸入）",
+  "part": "武器",
+  "category": "弓弩",
+  "ilvl": "",
+  "time": "20261003_014802",
+  "source": "表格手動輸入"
  }
 ]
